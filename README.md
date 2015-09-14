@@ -6,3 +6,5 @@ Mettre a jour ce fichier avec les propositions de jeu à réaliser.
 Proposition :
 
 Tower Defense.
+Runner.
+jeux de plateau basic style (echec dame ...)
